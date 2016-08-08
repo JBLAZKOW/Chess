@@ -1,0 +1,10 @@
+{
+"id":2,
+"login":"nickname",
+"password":"pass123",
+"name":"Nick",
+"surname":"Name",
+"email":"nick@name.com",
+"aboutMe":"Nicko",
+"lifeMotto":"motto"
+}

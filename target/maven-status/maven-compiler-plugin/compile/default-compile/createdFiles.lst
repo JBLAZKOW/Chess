@@ -1,0 +1,14 @@
+com\capgemini\chess\ChessApplication.class
+com\capgemini\chess\dataaccess\entities\UserEntity.class
+com\capgemini\chess\exception\NoSuchUserException.class
+com\capgemini\chess\service\Administration.class
+com\capgemini\chess\enums\Level.class
+com\capgemini\chess\service\dao\UserDao.class
+com\capgemini\chess\service\mapper\UserProfileMapper.class
+com\capgemini\chess\batch\ScheduledTimeReport.class
+com\capgemini\chess\service\dao\impl\UserDaoImpl.class
+com\capgemini\chess\service\to\UserProfileTO.class
+com\capgemini\chess\service\impl\AdministrationImpl.class
+com\capgemini\chess\service\impl\UserServiceImpl.class
+com\capgemini\chess\dataaccess\entities\StatisticEntity.class
+com\capgemini\chess\service\UserService.class
